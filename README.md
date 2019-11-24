@@ -30,3 +30,4 @@ junit、jacoco、maven
 将github链接分享给助教，在README里截图最后的html报告
 
 ![图片](IMG/image-20191115210743488.png)
+![image](https://github.com/yoofan/White-Box-Testing-/blob/master/111.png)
