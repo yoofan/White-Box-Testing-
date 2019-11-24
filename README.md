@@ -28,3 +28,5 @@ junit、jacoco、maven
 ## 提交方式
 
 将github链接分享给助教，在README里截图最后的html报告
+
+![图片](image-20191115210656311.png)
